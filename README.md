@@ -3,6 +3,7 @@
 This repository is a learning journal for my initial transition into Kotlin and Android Studio, developed as part of my Mobile and Multiplayer module at Teesside University. 
 
 *This repository will eventually be merged into a comprehensive Mobile & Multiplayer foundations collection.*
+
 ---
 
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
