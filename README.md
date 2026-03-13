@@ -1,4 +1,4 @@
-# Android Studio Intro (WIP)
+# Android Studio Intro
 
 This repository is a learning journal for my initial transition into Kotlin and Android Studio, developed as part of my Mobile and Multiplayer module at Teesside University. 
 
