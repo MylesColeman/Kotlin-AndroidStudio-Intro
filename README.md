@@ -1,8 +1,8 @@
 # Android Studio Intro
 
-This repository is a learning journal for my initial transition into Kotlin and Android Studio, developed as part of my Mobile and Multiplayer module at Teesside University. 
+Dungeon Crawler game, developed as part of my Mobile and Multiplayer module at Teesside University. 
 
-*This repository will eventually be merged into a comprehensive Mobile & Multiplayer foundations collection.*
+*This repository will eventually be merged into the Dungeon Crawler Game Server.*
 
 ---
 
